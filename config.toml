@@ -100,7 +100,7 @@ theme = "academic"
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "//github.com/allenzhao"
 
   [[params.social]]
     icon = "linkedin"
@@ -110,7 +110,7 @@ theme = "academic"
   [[params.social]]
     icon = "weixin"
     icon_pack = "fa"
-    link = "cnallenzhao" #todo:add link to wechat qr code
+    link = "img/wechat-qrcode.jpg" #todo:add link to wechat qr code
 
 
 # Navigation Links
