@@ -8,4 +8,4 @@ weight = 10
 
 I am a teaching assistant for the following courses at Tsinghua University:
 
-- 80511312: Electronic Commerce (Instructed by Prof. Xixi Li)
+- 80511312: Electronic Commerce (MBA Elective Course, Instructed by Prof. Xixi Li)
