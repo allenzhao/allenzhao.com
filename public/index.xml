@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Allen Zehan Zhao</title>
-    <link>http://www.allenzhao.com/</link>
+    <link>https://www.allenzhao.com/index.xml</link>
     <description>Recent content on Allen Zehan Zhao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Allen Zehan Zhao</copyright>
     <lastBuildDate>Tue, 31 May 2016 11:18:41 +0800</lastBuildDate>
-    <atom:link href="http://www.allenzhao.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.allenzhao.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hello World</title>
-      <link>http://www.allenzhao.com/post/hello-world/</link>
+      <link>https://www.allenzhao.com/post/hello-world/</link>
       <pubDate>Tue, 31 May 2016 11:18:41 +0800</pubDate>
       
-      <guid>http://www.allenzhao.com/post/hello-world/</guid>
+      <guid>https://www.allenzhao.com/post/hello-world/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Hello, World!&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>http://www.allenzhao.com/template-project/deep-learning/</link>
+      <link>https://www.allenzhao.com/template-project/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.allenzhao.com/template-project/deep-learning/</guid>
+      <guid>https://www.allenzhao.com/template-project/deep-learning/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
@@ -40,22 +40,22 @@
     
     <item>
       <title>External Project</title>
-      <link>http://www.allenzhao.com/template-project/example-external-project/</link>
+      <link>https://www.allenzhao.com/template-project/example-external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.allenzhao.com/template-project/example-external-project/</guid>
+      <guid>https://www.allenzhao.com/template-project/example-external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>about</title>
-      <link>http://www.allenzhao.com/home/about/</link>
+      <link>https://www.allenzhao.com/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.allenzhao.com/home/about/</guid>
+      <guid>https://www.allenzhao.com/home/about/</guid>
       <description>
 
-&lt;h1 id=&#34;biography:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Biography&lt;/h1&gt;
+&lt;h1 id=&#34;biography&#34;&gt;Biography&lt;/h1&gt;
 
 &lt;p&gt;I am currently a first year Information Systems masters student at &lt;a href=&#34;http://www.sem.tsinghua.edu.cn&#34;&gt;School of Economics and Management&lt;/a&gt;, &lt;a href=&#34;http://www.tsinghua.edu.cn&#34;&gt;Tsinghua University&lt;/a&gt;. I&amp;rsquo;m carrying out various research projects under the supervision of &lt;a href=&#34;http://www.sem.tsinghua.edu.cn/en/xuxin&#34;&gt;Professor Sean Xin Xu&lt;/a&gt; and &lt;a href=&#34;http://www.sem.tsinghua.edu.cn/en/lixixi&#34;&gt;Professor Xixi Li&lt;/a&gt;. My research interests lie in Information Systems, Social Networks, Health Information Technologies, Web Technologies &amp;amp; Programming and Applied Machine Learning.&lt;/p&gt;
 
@@ -63,7 +63,7 @@
 
 &lt;p&gt;In summers of 2014 and 2016, I participated in &lt;a href=&#34;https://summerofcode.withgoogle.com&#34;&gt;Google Summer of Code&lt;/a&gt; with &lt;a href=&#34;https://www.joomla.org&#34;&gt;Joomla&lt;/a&gt; and &lt;a href=&#34;https://bundler.io&#34;&gt;Bundler&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;In my spare time, I like to swim and play &lt;a href=&#34;https://en.wikipedia.org/wiki/Ultimate_(sport)&#34;&gt;Ultimate frisbee&lt;/a&gt;. And I&amp;rsquo;m a huge fan of various TV shows.&lt;/p&gt;
+&lt;p&gt;In my spare time, I like to swim and play [Ultimate frisbee](&lt;a href=&#34;https://en.wikipedia.org/wiki/Ultimate_(sport)&#34;&gt;https://en.wikipedia.org/wiki/Ultimate_(sport)&lt;/a&gt;). And I&amp;rsquo;m a huge fan of various TV shows.&lt;/p&gt;
 
 &lt;p&gt;Other details of me could be found at my &lt;a href=&#34;https:////linkedin.com/in/zehanzhao&#34;&gt;LinkedIn&lt;/a&gt; page.&lt;/p&gt;
 </description>
@@ -71,20 +71,20 @@
     
     <item>
       <title></title>
-      <link>http://www.allenzhao.com/template-publication/template/</link>
+      <link>https://www.allenzhao.com/template-publication/template/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.allenzhao.com/template-publication/template/</guid>
+      <guid>https://www.allenzhao.com/template-publication/template/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>teaching</title>
-      <link>http://www.allenzhao.com/home/teaching/</link>
+      <link>https://www.allenzhao.com/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.allenzhao.com/home/teaching/</guid>
+      <guid>https://www.allenzhao.com/home/teaching/</guid>
       <description>&lt;p&gt;I am a teaching assistant for the following courses at Tsinghua University:&lt;/p&gt;
 
 &lt;ul&gt;
